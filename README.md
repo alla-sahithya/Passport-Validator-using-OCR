@@ -12,7 +12,8 @@ This project uses the free version of the Mindee API for OCR (Optical Character 
 ## Installation/ Usage:
 
 1. **Clone the repository:** git clone https://github.com/anvs18/NOLA_AI_Internship.git
-2. (optional) **Create a virtual environment:** python -m venv venv
+2. Navigate into the 'NOLA_AI_Internship' folder.
+3. (optional) **Create a virtual environment:** python -m venv venv
    and **Activate it:** ./venv/Scripts/activate
 4. **Install the required packages:** pip install -r requirements.txt
 5. **Modify** the configs/config.json file according to your input needs and your API key.
