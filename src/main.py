@@ -42,6 +42,7 @@ def main():
             first_name = str(value)
     
     full_name = f"{first_name} {last_name}"
+    # Printing Name and Expiration details
     print(full_name)
     print(expiry_date)
 
